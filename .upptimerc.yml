@@ -26,3 +26,6 @@ status-website:
           href: /
         - title: Телеграм
           href: https://t.me/dadataru_health
+
+i18n:
+    footer: "[DaData.ru](https://dadata.ru/)"
