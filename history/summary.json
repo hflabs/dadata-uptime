@@ -22,19 +22,19 @@
     "url": "https://cleaner.dadata.ru/actuator/health",
     "icon": "https://icons.duckduckgo.com/ip3/cleaner.dadata.ru.ico",
     "slug": "standartizacziya",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 778,
-    "timeDay": 1144,
-    "timeWeek": 875,
-    "timeMonth": 805,
-    "timeYear": 778,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 781,
+    "timeDay": 1034,
+    "timeWeek": 881,
+    "timeMonth": 809,
+    "timeYear": 781,
     "dailyMinutesDown": {
-      "2025-05-01": 0
+      "2025-05-01": 12
     }
   },
   {
