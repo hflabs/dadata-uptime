@@ -22,7 +22,7 @@
     "url": "https://cleaner.dadata.ru/actuator/health",
     "icon": "https://icons.duckduckgo.com/ip3/cleaner.dadata.ru.ico",
     "slug": "standartizacziya",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 875,
     "timeMonth": 805,
     "timeYear": 778,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-01": 0
+    }
   },
   {
     "name": "Подсказки",
