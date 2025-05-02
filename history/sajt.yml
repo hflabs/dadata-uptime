@@ -1,7 +1,7 @@
 url: https://dadata.ru/about/
-status: degraded
-code: 502
-responseTime: 27324
-lastUpdated: 2025-05-02T11:12:19.892Z
+status: up
+code: 200
+responseTime: 1557
+lastUpdated: 2025-05-02T11:27:45.823Z
 startTime: 2025-03-17T13:45:16.809Z
 generator: Upptime <https://github.com/upptime/upptime>
