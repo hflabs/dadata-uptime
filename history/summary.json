@@ -4,19 +4,19 @@
     "url": "https://dadata.ru/about/",
     "icon": "https://icons.duckduckgo.com/ip3/dadata.ru.ico",
     "slug": "sajt",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.98%",
-    "uptimeDay": "98.93%",
-    "uptimeWeek": "99.85%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 1708,
-    "timeDay": 9965,
-    "timeWeek": 4272,
-    "timeMonth": 2031,
-    "timeYear": 1708,
+    "time": 1871,
+    "timeDay": 10028,
+    "timeWeek": 4866,
+    "timeMonth": 2279,
+    "timeYear": 1871,
     "dailyMinutesDown": {
-      "2025-05-02": 15
+      "2025-05-02": 16
     }
   },
   {
@@ -24,18 +24,20 @@
     "url": "https://cleaner.dadata.ru/actuator/health",
     "icon": "https://icons.duckduckgo.com/ip3/cleaner.dadata.ru.ico",
     "slug": "standartizacziya",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 779,
-    "timeDay": 791,
-    "timeWeek": 894,
-    "timeMonth": 792,
-    "timeYear": 779,
-    "dailyMinutesDown": {}
+    "time": 1182,
+    "timeDay": 7651,
+    "timeWeek": 3169,
+    "timeMonth": 1435,
+    "timeYear": 1182,
+    "dailyMinutesDown": {
+      "2025-05-02": 0
+    }
   },
   {
     "name": "Подсказки",
