@@ -4,18 +4,20 @@
     "url": "https://dadata.ru/about/",
     "icon": "https://icons.duckduckgo.com/ip3/dadata.ru.ico",
     "slug": "sajt",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1188,
-    "timeDay": 1013,
-    "timeWeek": 1367,
-    "timeMonth": 1203,
-    "timeYear": 1188,
-    "dailyMinutesDown": {}
+    "time": 1711,
+    "timeDay": 14169,
+    "timeWeek": 4611,
+    "timeMonth": 2046,
+    "timeYear": 1711,
+    "dailyMinutesDown": {
+      "2025-05-02": 0
+    }
   },
   {
     "name": "Стандартизация",
