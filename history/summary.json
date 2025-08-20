@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1592,
-    "timeDay": 1196,
-    "timeWeek": 1216,
-    "timeMonth": 1286,
-    "timeYear": 1592,
+    "time": 1591,
+    "timeDay": 1378,
+    "timeWeek": 1243,
+    "timeMonth": 1301,
+    "timeYear": 1591,
     "dailyMinutesDown": {
       "2025-06-03": 24,
       "2025-05-02": 49
@@ -26,16 +26,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cleaner.dadata.ru.ico",
     "slug": "standartizacziya",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 987,
-    "timeDay": 1135,
-    "timeWeek": 898,
-    "timeMonth": 882,
-    "timeYear": 987,
+    "uptimeYear": "99.99%",
+    "time": 988,
+    "timeDay": 1052,
+    "timeWeek": 936,
+    "timeMonth": 893,
+    "timeYear": 988,
     "dailyMinutesDown": {
       "2025-05-02": 33
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 854,
-    "timeDay": 501,
-    "timeWeek": 846,
-    "timeMonth": 890,
-    "timeYear": 854,
+    "time": 853,
+    "timeDay": 714,
+    "timeWeek": 862,
+    "timeMonth": 884,
+    "timeYear": 853,
     "dailyMinutesDown": {}
   }
 ]
