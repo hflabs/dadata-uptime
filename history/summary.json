@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dadata.ru.ico",
     "slug": "sajt",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 1527,
-    "timeDay": 1107,
-    "timeWeek": 1428,
-    "timeMonth": 1248,
-    "timeYear": 1527,
+    "uptimeYear": "99.98%",
+    "time": 1524,
+    "timeDay": 969,
+    "timeWeek": 1342,
+    "timeMonth": 1252,
+    "timeYear": 1524,
     "dailyMinutesDown": {
       "2025-06-03": 24,
       "2025-05-02": 49
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 986,
-    "timeDay": 819,
-    "timeWeek": 1183,
-    "timeMonth": 991,
-    "timeYear": 986,
+    "time": 985,
+    "timeDay": 873,
+    "timeWeek": 1092,
+    "timeMonth": 994,
+    "timeYear": 985,
     "dailyMinutesDown": {
       "2025-05-02": 33
     }
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 871,
-    "timeDay": 926,
-    "timeWeek": 1083,
-    "timeMonth": 929,
+    "timeDay": 935,
+    "timeWeek": 994,
+    "timeMonth": 951,
     "timeYear": 871,
     "dailyMinutesDown": {}
   }
