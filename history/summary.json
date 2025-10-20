@@ -45,19 +45,19 @@
     "url": "https://suggestions.dadata.ru/suggestions/api/4_1/rs/status",
     "icon": "https://icons.duckduckgo.com/ip3/suggestions.dadata.ru.ico",
     "slug": "podskazki",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 876,
-    "timeDay": 1413,
-    "timeWeek": 967,
-    "timeMonth": 954,
-    "timeYear": 876,
+    "status": "degraded",
+    "uptime": "99.99%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 890,
+    "timeDay": 2485,
+    "timeWeek": 1373,
+    "timeMonth": 1069,
+    "timeYear": 890,
     "dailyMinutesDown": {
-      "2025-10-20": 0
+      "2025-10-20": 24
     }
   }
 ]
