@@ -1,7 +1,7 @@
 url: https://cleaner.dadata.ru/actuator/health
-status: up
+status: degraded
 code: 200
-responseTime: 765
-lastUpdated: 2025-10-25T23:16:41.572Z
+responseTime: 6000
+lastUpdated: 2025-10-26T15:17:28.973Z
 startTime: 2025-03-17T13:45:18.462Z
 generator: Upptime <https://github.com/upptime/upptime>
