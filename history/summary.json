@@ -6,17 +6,16 @@
     "slug": "sajt",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1495,
-    "timeDay": 1474,
-    "timeWeek": 1282,
-    "timeMonth": 1329,
-    "timeYear": 1495,
+    "time": 1497,
+    "timeDay": 1626,
+    "timeWeek": 1326,
+    "timeMonth": 1358,
+    "timeYear": 1497,
     "dailyMinutesDown": {
-      "2025-11-15": 11,
       "2025-06-03": 24,
       "2025-05-02": 49
     }
@@ -32,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 991,
-    "timeDay": 975,
-    "timeWeek": 914,
-    "timeMonth": 1070,
-    "timeYear": 991,
+    "time": 993,
+    "timeDay": 1433,
+    "timeWeek": 929,
+    "timeMonth": 1100,
+    "timeYear": 993,
     "dailyMinutesDown": {
       "2025-05-02": 33
     }
@@ -52,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 892,
-    "timeDay": 990,
-    "timeWeek": 911,
-    "timeMonth": 1037,
-    "timeYear": 892,
+    "time": 893,
+    "timeDay": 971,
+    "timeWeek": 852,
+    "timeMonth": 1055,
+    "timeYear": 893,
     "dailyMinutesDown": {
       "2025-10-20": 36
     }
