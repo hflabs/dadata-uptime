@@ -6,15 +6,15 @@
     "slug": "sajt",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "96.66%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.52%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
-    "time": 1430,
-    "timeDay": 1874,
-    "timeWeek": 1417,
-    "timeMonth": 1327,
-    "timeYear": 1430,
+    "time": 1429,
+    "timeDay": 972,
+    "timeWeek": 1402,
+    "timeMonth": 1300,
+    "timeYear": 1429,
     "dailyMinutesDown": {
       "2026-03-12": 48
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 938,
-    "timeDay": 395,
-    "timeWeek": 692,
-    "timeMonth": 767,
+    "timeDay": 837,
+    "timeWeek": 646,
+    "timeMonth": 774,
     "timeYear": 938,
     "dailyMinutesDown": {}
   },
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 864,
-    "timeDay": 378,
-    "timeWeek": 599,
-    "timeMonth": 739,
-    "timeYear": 864,
+    "time": 863,
+    "timeDay": 514,
+    "timeWeek": 555,
+    "timeMonth": 722,
+    "timeYear": 863,
     "dailyMinutesDown": {}
   }
 ]
