@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/dadata.ru.ico",
     "slug": "sajt",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.99%",
-    "time": 1425,
-    "timeDay": 687,
-    "timeWeek": 1221,
-    "timeMonth": 1328,
-    "timeYear": 1431,
-    "dailyMinutesDown": {
-      "2026-03-12": 48
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1424,
+    "timeDay": 865,
+    "timeWeek": 1053,
+    "timeMonth": 1331,
+    "timeYear": 1430,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Стандартизация",
@@ -30,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 933,
-    "timeDay": 444,
-    "timeWeek": 665,
-    "timeMonth": 732,
+    "time": 932,
+    "timeDay": 608,
+    "timeWeek": 646,
+    "timeMonth": 731,
     "timeYear": 938,
     "dailyMinutesDown": {}
   },
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 861,
-    "timeDay": 736,
-    "timeWeek": 750,
-    "timeMonth": 716,
-    "timeYear": 864,
+    "time": 859,
+    "timeDay": 363,
+    "timeWeek": 645,
+    "timeMonth": 702,
+    "timeYear": 863,
     "dailyMinutesDown": {}
   }
 ]
