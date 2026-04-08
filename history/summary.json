@@ -4,10 +4,10 @@
     "url": "https://dadata.ru/about/",
     "icon": "https://icons.duckduckgo.com/ip3/dadata.ru.ico",
     "slug": "sajt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 1461,
@@ -16,6 +16,7 @@
     "timeMonth": 1815,
     "timeYear": 1483,
     "dailyMinutesDown": {
+      "2026-04-08": 1,
       "2026-03-23": 16
     }
   },
